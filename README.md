@@ -69,3 +69,8 @@ Combination of `cloudfront:setup` and `cloudfront:build:deploy` commands with or
 ### `serverless:remove`
 
 Remove an entire stack configured in `serverless.yml` via CloudFormation.
+
+## Deployment Links
+
+- **CloudFront URL**: https://d350az9m6zimqd.cloudfront.net/
+- **S3 Static Website URL**: http://legostoreapp.s3-website-us-east-1.amazonaws.com/
